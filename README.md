@@ -11,8 +11,6 @@
 
 [`conversational-ai-chatbot.ipynb`](https://github.com/rishika64/Conversational-AI-ChatBot/blob/main/conversational-ai-chatbot.ipynb) - A Interactive Notebook version of ChatBot
 
-[`requirements.txt`](https://github.com/rishika64/Conversational-AI-ChatBot/blob/main/requirements.txt)  - Explores Python libraries requirements to run the project
-
 ### What is a chatbot?
 
 >##### A ChatBot is a kind of virtual assistant that can build conversations with human users! A *Chat*ting Ro*bot*. Building a chatbot is one of the popular tasks in Natural Language Processing.
